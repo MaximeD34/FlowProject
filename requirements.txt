@@ -3,4 +3,3 @@ streamlit
 folium
 googlemaps
 requests
-csv
