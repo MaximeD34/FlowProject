@@ -2,3 +2,5 @@ beebotte
 streamlit
 folium
 googlemaps
+requests
+csv
