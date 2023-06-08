@@ -1,5 +1,4 @@
 beebotte
-streamlit
 folium
 googlemaps
 requests
